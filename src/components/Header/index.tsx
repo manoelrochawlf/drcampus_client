@@ -4,7 +4,7 @@ import { HeaderContainer, Item, Items, Logo } from "./styles";
 const Header = () => {
     return ( 
         <HeaderContainer>
-            <Logo>BeautyClick</Logo>
+            <Logo>Dr. Campus</Logo>
             <Items>
                 <Item>Login</Item>
             </Items>

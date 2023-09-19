@@ -8,6 +8,6 @@ export const GlobalStyles = createGlobalStyle`
     text-decoration: none;  
   }
   body{
-   background: linear-gradient(76deg, rgba(252,248,248,1) 65%, rgba(254,235,208,1) 75%);
+    background: linear-gradient(90deg, rgba(228,228,228,1) 55%, rgba(187,219,226,1) 100%);
   }
   `

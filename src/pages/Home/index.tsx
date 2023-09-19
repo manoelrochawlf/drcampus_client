@@ -1,13 +1,12 @@
 import React from "react";
-import { Container, BeautyImage, LeadText } from "./styles";
+import { Container, LeadText } from "./styles";
+import Login from "../../components/Login";
 
 const Home = () => {
-
-
     return ( 
         <Container>
-            <LeadText>A plataforma perfeita para encontrar o melhor salão próximo a você</LeadText>
-            <BeautyImage/>
+            <LeadText>A plataforma perfeita pros seus estudos pro UBA XXI</LeadText>
+            <Login />
         </Container>
      );
 }
