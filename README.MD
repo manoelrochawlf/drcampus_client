@@ -18,6 +18,6 @@ O front-end do Dr. Campus é desenvolvido com as seguintes tecnologias:
 Certifique-se de ter o Node.js instalado em sua máquina antes de prosseguir. Para configurar o ambiente de desenvolvimento, siga estas etapas:
 
 1. Clone este repositório.
-2. Navegue até o diretório `front-end`.
-3. Execute `npm install` para instalar as dependências.
-4. Execute `npm start` para iniciar o servidor de desenvolvimento.
+2. Navegue até o diretório `dr_campus.
+3. Execute `yarn` ou `yarn install` para instalar as dependências.
+4. Execute `yarn dev` para iniciar o servidor de desenvolvimento.
